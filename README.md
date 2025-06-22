@@ -51,13 +51,13 @@ This is a supervised machine learning project using regression to predict house 
 
 This scatter plot shows how close our predictions are to the actual sale prices:
 
-![Actual vs Predicted Plot](actual_vs_predicted.png)
+![Actual vs Predicted Plot](notebooks/actual_vs_predicted.png)
 
 ###  Residual Plot
 
 This shows how well-distributed our prediction errors are:
 
-![Residual Plot](residuals.png)
+![Residual Plot](notebooks/residuals.png)
 
 ---
 
